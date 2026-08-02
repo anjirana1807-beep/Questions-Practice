@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -92,4 +93,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
