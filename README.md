@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
