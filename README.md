@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
+| [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
