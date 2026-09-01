@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 ## Game Theory
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 ## Sliding Window
