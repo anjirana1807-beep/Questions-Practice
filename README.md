@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 ## Game Theory
