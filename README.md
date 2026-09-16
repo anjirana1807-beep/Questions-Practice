@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0450-delete-node-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0938-range-sum-of-bst) |
 ## Array
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
