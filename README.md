@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0099-recover-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0450-delete-node-in-a-bst) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0209-minimum-size-subarray-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
