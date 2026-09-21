@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
