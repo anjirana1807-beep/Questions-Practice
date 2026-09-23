@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
+| [0904-fruit-into-baskets](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
