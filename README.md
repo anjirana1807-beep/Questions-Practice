@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
