@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
