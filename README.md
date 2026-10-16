@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -252,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
