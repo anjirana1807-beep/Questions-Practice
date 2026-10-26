@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
+| [1254-number-of-closed-islands](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -167,10 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0542-01-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1254-number-of-closed-islands) |
 ## Sliding Window
 |  |
 | ------- |
