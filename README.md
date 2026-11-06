@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0938-range-sum-of-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0997-find-the-town-judge) |
 | [1254-number-of-closed-islands](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0202-happy-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
