@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3917-count-indices-with-opposite-parity](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
