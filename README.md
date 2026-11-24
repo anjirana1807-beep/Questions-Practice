@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3668-restore-finishing-order) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/0904-fruit-into-baskets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anjirana1807-beep/Questions-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
